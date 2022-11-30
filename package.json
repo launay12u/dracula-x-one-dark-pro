@@ -1,0 +1,26 @@
+{
+  "name": "dracula-x-one-dark-pro",
+  "publisher": "launay12u",
+  "displayName": "Dracula x One Dark Pro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/launay12u/dracula-x-one-dark-pro"
+  },
+  "description": "",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "dracula-x-one-dark-pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dracula-x-one-dark-pro.json"
+      }
+    ]
+  }
+}
